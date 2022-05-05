@@ -84,6 +84,7 @@ to your own `origin` with
 ```shell
 git push origin main --force
 ```
+we want do a new pull request
 
 and both, your local working directory and your fork on https://github.com are (should be) up to date.
 
