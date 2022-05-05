@@ -1,1 +1,12 @@
+##
+# IDE Stuff
+#
+
+# IntelliJ
+*.iml
 .idea/
+
+##
+# Python
+#
+.env/

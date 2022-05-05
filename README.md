@@ -86,3 +86,19 @@ git push origin main --force
 ```
 
 and both, your local working directory and your fork on https://github.com are (should be) up to date.
+
+### Python
+
+Create directory for the new virtual environment:
+
+```shell
+mkdir .env
+```
+
+and create the virtual environment with
+
+```shell
+python -m venv ./.env/
+```
+
+Do not forget to _activate_ the environment.
