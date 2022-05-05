@@ -1,4 +1,8 @@
-def main():
+import sys
+
+
+def main(argv):
     print("Hello World")
 
-main()
+if __name__ == 'main':
+    main(sys.argv)
